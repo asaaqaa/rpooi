@@ -67,7 +67,13 @@
         "value": "https://github.com/asaaqaa/rpooi",
         "required": true
      } 
-      },
+          },
+  "addons": [{
+    "plan": "heroku-postgresql",
+    "options": {
+      "version": "12"
+    }
+  }],
     "buildpacks": [
           {
               "url": "heroku/python"
