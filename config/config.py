@@ -52,7 +52,8 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 # You have to Enter the app name which you gave to identify your  Music Bot in Heroku.
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
-
+#اليسع مر من هنا 
+MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
