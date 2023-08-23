@@ -11,17 +11,17 @@
 # Commands in Every Language
 
 # Bot Commands
-PING_COMMAND : ["ping"]
+PING_COMMAND : ["بنج"]
 START_COMMAND : ["start"]
-HELP_COMMAND : ["help"]
-SETTINGS_COMMAND : ["settings"]
-RELOAD_COMMAND : ["reload"]
+HELP_COMMAND : ["ميوزك"]
+SETTINGS_COMMAND : ["settings", "اعدادات"]
+RELOAD_COMMAND : ["ريلود"]
 GSTATS_COMMAND : ["gstats"]
 STATS_COMMAND : ["system"]
-LANGUAGE_COMMAND : ["lang", "language"]
+LANGUAGE_COMMAND : ["lang", "لغه"]
 
 # Play Commands
-PLAY_COMMAND : ["p", "play", "vplay", "cplay", "cvplay", "playforce", "vplayforce", "cplayforce", "cvplayforce"]
+PLAY_COMMAND : ["ش", "play", "شغل", "cplay", "cvplay", "playforce", "vplayforce", "cplayforce", "cvplayforce"]
 PLAYMODE_COMMAND : ["playmode"]
 CHANNELPLAY_COMMAND : ["channelplay"]
 STREAM_COMMAND : ["stream", "cstream", "streamforce"]
@@ -41,16 +41,16 @@ LYRICS_COMMAND : ["lyrics"]
 AUTH_COMMAND : ["auth"]
 UNAUTH_COMMAND : ["unauth"]
 AUTHUSERS_COMMAND : ["authusers"]
-PAUSE_COMMAND : ["ps", "pause", "cpause"]
-RESUME_COMMAND : ["rs", "resume", "cresume"]
+PAUSE_COMMAND : ["ps", "س", "cpause"]
+RESUME_COMMAND : ["rs", "ك", "cresume"]
 MUTE_COMMAND : ["mute", "cmute"]
 UNMUTE_COMMAND : ["unmute", "cunmute"]
-STOP_COMMAND : ["e", "end", "cstop", "cend"]
-SKIP_COMMAND : ["sk", "skip", "cskip"]
+STOP_COMMAND : ["e", "ت", "cstop", "cend"]
+SKIP_COMMAND : ["ن", "skip", "cskip"]
 SHUFFLE_COMMAND : ["shuffle", "cshuffle"]
 LOOP_COMMAND : ["loop", "cloop"]
 SEEK_COMMAND : ["seek", "cseek", "seekback", "cseekback"]
-RESTART_COMMAND : ["restart"]
+RESTART_COMMAND : ["ريستار"]
 
 # Sudo Users Commaands
 
