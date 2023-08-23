@@ -1,5 +1,5 @@
 {
-    "name": "Prime Music",
+    "name": "soha Music",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
     "logo": "https://telegra.ph/file/ead703562aa39dafa9347.jpg",
     "keywords": [
@@ -32,12 +32,7 @@
         "description": "A Bot's token from Botfather",
         "value": "",
         "required": true
-      },
-      "MONGO_DB_URI": {
-        "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
-        "value": "",
-        "required": false
-      },
+      }, 
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
         "value": "",
@@ -70,7 +65,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/Toni880/PrimeMusic",
+        "value": "https://github.com/asaaqaa/rpooi",
         "required": true
       },
       "UPSTREAM_BRANCH": {
